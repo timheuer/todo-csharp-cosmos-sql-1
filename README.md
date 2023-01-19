@@ -113,7 +113,7 @@ Setting up this pipeline requires you to give GitHub permission to deploy to Azu
 
 Before you call the `azd pipeline config` command, you'll need to install the following:
 
-- [GitHub CLI (2.3+)](https://github.com/cli/cli)
+- [GitHub CLI (2.21+)](https://github.com/cli/cli)
 
 Run the following command to set up a GitHub Action:
 
